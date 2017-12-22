@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "dependencies": {
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "react-paint": "^1.0.1"
   },
   "devDependencies": {
     "babel-preset-env": "^1.6.1",
