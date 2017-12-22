@@ -2,7 +2,7 @@ react:
   build: .
   volumes:
     - "/usr/src/app/node_modules"
-    - "./react:/usr/src/app"
-    - "./app/assets/javascripts/react:/usr/src/app/dist"
+    - ".:/usr/src/app"
+    - "dist:/usr/src/app/dist"
   command:
     [ "./node_modules/.bin/parcel", "watch", "src/index.js" ]
