@@ -2,7 +2,7 @@
 
 [Colored Eraser Demo - 色の消しゴム デモ](http://masuidrive.com/colored_eraser/)
 
-![](https://i.gyazo.com/5878c0b3e7515db8f174466efc8e6b9e.gif)
+![](https://i.gyazo.com/01357edc2ef1173f04576cec5bc59f4e.gif)
 
 前々から[Paper](https://www.fiftythree.com/paper)みたいなiPadの手書きメモアプリで、「特定の色だけ消せる消しゴム機能」が欲しいなと思っていました。
 
