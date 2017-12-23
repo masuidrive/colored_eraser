@@ -1,15 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom'
 
-import ReactPaint from 'react-paint'
+import ReactPaint from './react-paint'
 
 const props = {
   style: {
-    background: 'tomato',
+    background: 'white',
     /* Arbitrary css styles */
   },
-  brushCol: '#ffffff',
-  lineWidth: 10,
+  brushCol: 'black',
+  lineWidth: 4,
   className: 'react-paint',
   height: 500,
   width: 500,

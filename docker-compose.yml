@@ -6,6 +6,6 @@ services:
       - ".:/usr/src/app"
       - "/usr/src/app/node_modules"
     command:
-      [ "./node_modules/.bin/parcel", "watch", "src/index.html" ]
+      [ "/bin/bash", "-c", "(./node_modules/.bin/http-server . &) && (./node_modules/.bin/parcel watch src/index.html)" ]
     ports:
-      - "1234:1234"
+      - "8080:8080"
