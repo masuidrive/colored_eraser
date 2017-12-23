@@ -1,3 +1,11 @@
+/**
+ * This file is based on react-paint module
+ * https://github.com/james-oldfield/react-paint
+ * 
+ * The MIT License (MIT)
+ * Copyright (c) 2015 Julian Ćwirko <julian.io>
+ */
+
 import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
 import PropTypes from 'prop-types'
